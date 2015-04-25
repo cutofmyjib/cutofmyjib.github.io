@@ -79,3 +79,5 @@ credits:        true
 # Show email subscription link in footer
 # Default:      false
 subscription:   false
+
+redirects: yes
