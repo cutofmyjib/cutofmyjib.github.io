@@ -2,18 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-desc: designer / developer
+desc: Diana Lozano
 ---
 
-Hi my name is Diana Lozano.
+Hi, I'm a designer and a budding developer living in San Franciscold.
+You can ping me on [Twitter](http://twitter.com/bossigner) or email me at [thedianalozano@gmail.com](mailto:thedianalozano@gmail.com).
 
-Welcome to the cutofmyjib.com where you can find my blog posts and my portfolio. You can ping me on [Twitter](http://twitter.com/bossigner) or email me at [thedianalozano@gmail.com](mailto:thedianalozano@gmail.com).
-
-## Colophon
+## You can find my projects here
 
 [<abbr title="cutofmyjib projects">my projects</abbr>](http://cutofmyjib.github.io/projects) -
 [Behance](http://www.behance.net/dianalozano) -
 [Flickr](https://www.flickr.com/photos/alltomorrowsconcerts/sets) -
 [GiveIt 100](https://giveit100.com/@wurlitzerlove/jthibo)
 
-All posts are &copy; Diana Lozano all rights reserved.
+<small>Copyright &copy; 2015 Diana Lozano. All rights reserved.</small>
