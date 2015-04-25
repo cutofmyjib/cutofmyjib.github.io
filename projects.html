@@ -12,13 +12,13 @@ desc: my work
   <header>
 
     <h1 class=amsf-title>
-      cutofmyjib
+      projects
     </h1>
 
-    <small>a.k.a. <b>Diana Lozano</b>&#x30FB;ver. <b>2.0</b>&#x30FB;view it on <a href="https://github.com/cutofmyjib/cutofmyjib.github.io">GitHub</a></small>
+    <small>by <b>Diana Lozano</b>&#x30FB;</b>view it on <a href="https://github.com/cutofmyjib/cutofmyjib.github.io">GitHub</a></small>
   </header>
 
-  {% for post in projects.categories.note %}
+  {% for post in site.categories.projects %}
     {% include page-item.html %}
   {% endfor %}
 </article>
