@@ -32,7 +32,7 @@ redcarpet:
 #
 
 # Site name
-name:           Almace Scaffolding
+name:           Diana Lozano
 
 # Site description, will appear in the document meta and Atom feed subtitle
 description:    I make things that don’t suck.
@@ -46,10 +46,10 @@ base:           null
 feed:           /feed
 
 # Used in atom feed, sitemap, Twitter Cards, and etc. I should use absolute full URLs for these fields
-url:            http://sparanoid.com
+url:            http://cutofmyjib.github.io
 
 # Site Twitter account handle
-twitter:        sparanoid
+twitter:        bossigner
 
 # Force UTF-8 encoding, enable this will simply add <meta charset=utf-8> to the head of your pages
 # Default:      false

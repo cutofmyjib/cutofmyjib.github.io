@@ -7,10 +7,10 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
-  web:          http://sparanoid.com/
-  twitter:      tunghsiao
+  name:         Diana Lozano
+  email:        thedianalozano@gmail.com
+  web:          http://cutofmyjib.github.io/
+  twitter:      bossigner
 
 tester:
   name:         Tester
