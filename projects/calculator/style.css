@@ -1,0 +1,73 @@
+body, div, a {
+    padding:0;
+    margin:0;
+    font: 18px Arial, sans-serif;
+}
+
+html {
+  height: 100%;
+  background: white;
+  background: radial-gradient(circle, #FFF 20%, gainsboro);
+  background-size: cover;
+}
+
+#calculator {
+  background-color: #CC3399;
+  width: 310px;
+  height: 460px;
+  margin: 10px auto;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+#total {
+    box-shadow: inset 0px 4px rgba(0, 0, 0, 0.2);
+    height: 70px;
+    width: 290px;
+    margin:auto;
+    background-color:white;
+    color: coral;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: right;
+    font-size: 50px;
+    padding: 0 5px;
+    border-radius: 10px;
+}
+
+#numbers, #operators {
+  -webkit-user-select: none;
+  margin: auto;
+}
+
+#operators a {
+  box-shadow: 0px 4px rgba(0, 0, 0, 0.2);
+  display: block;
+  width: 45px;
+  height: 45px;
+  float: left;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-size: 39px;
+  padding: 2px;
+  margin: 5px 6px;
+  background: coral;
+  border-radius: 10px;
+}
+
+#numbers a {
+  box-shadow: 0px 4px rgba(0, 0, 0, 0.2);
+  display: block;
+  width: 60px;
+  height: 50px;
+  float: left;
+  text-decoration: none;
+  color: purple;
+  text-align: center;
+  font-size: 43px;
+  padding: 8px;
+  margin: 5px 13px;
+  background: #FFFAE6 ;
+  border-radius: 10px;
+}
