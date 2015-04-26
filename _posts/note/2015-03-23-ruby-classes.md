@@ -21,4 +21,6 @@ The remove method removes the hash listing in the playlist, so it has 1 paramete
 
 The easiest method is shuffle. It's pretty straightforward.
 
-
+<p class="store">
+  <a href="https://www.twitter.com/intent/tweet?text=@bossigner;url=http://http://cutofmyjib.github.io/-ruby-classes.html" target="_blank">Feedback.</a>
+</p>
