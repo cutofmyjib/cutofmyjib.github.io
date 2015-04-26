@@ -738,7 +738,7 @@ body:hover .latest {
   cursor: zoom-out;
 }
 .gist {
-  font-size: 100% !important;
+  font-size: 70% !important;
 }
 .gist code,
 .gist pre {

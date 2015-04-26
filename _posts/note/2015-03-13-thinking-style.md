@@ -4,9 +4,10 @@ title: My Thinking and Learning Style
 category: note
 plugin: intense
 hidden: true
+scheme-link: "#FF9933"
 ---
 
-Before starting Phase 0 of Dev Bootcamp, one of the requirements is to take a <a href="http://www.thelearningweb.net/personalthink.html">thinking style test.</a> According to the results, I mostly think Concrete Random style with a hint of everything.
+Before starting Phase 0 of Dev Bootcamp, one of the requirements is to take a <a href="http://www.thelearningweb.net/personalthink.html">thinking style test</a>. According to the results, I mostly think Concrete Random style with a hint of everything.
 
 While I think it's interesting to know what my thinking style falls under, I take it as a grain of salt. True as it may be that I find it difficult for me to get into a routine, deal with formal reports, restrictions and limitations and etc, I like to think that it applies to everybody. To be honest, I have a love-hate relationship with these kinds of tests. I find it borderline horoscope-ish. But that isn't the point of this reflection.
 
