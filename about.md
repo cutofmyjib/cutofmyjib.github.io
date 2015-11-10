@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 desc: Diana Lozano
 ---
-
 Hi, I'm a designer and web developer living in San Franciscold.
 You can ping me on [Twitter](http://twitter.com/bossigner), take a look at my [professional experience](http://www.linkedin.com/in/dianalozano) or email me at [thedianalozano@gmail.com](mailto:thedianalozano@gmail.com).
-
 
 ## You can find my projects here
 
@@ -16,4 +14,6 @@ You can ping me on [Twitter](http://twitter.com/bossigner), take a look at my [p
 [Behance](http://www.behance.net/dianalozano) -
 [Flickr](https://www.flickr.com/photos/alltomorrowsconcerts/sets)
 
+## You can find my projects here
+[download my resume](https://github.com/cutofmyjib/cutofmyjib.github.io/tree/master/posts-imgs/ResumeDianaLozano.pdf)
 <small>Copyright &copy; 2015 Diana Lozano. All rights reserved.</small>
