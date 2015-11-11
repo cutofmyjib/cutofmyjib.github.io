@@ -14,6 +14,8 @@ You can ping me on [Twitter](http://twitter.com/bossigner), take a look at my [p
 [Behance](http://www.behance.net/dianalozano) -
 [Flickr](https://www.flickr.com/photos/alltomorrowsconcerts/sets)
 
-## You can find my projects here
-[download my resume](https://github.com/cutofmyjib/cutofmyjib.github.io/tree/master/posts-imgs/ResumeDianaLozano.pdf)
+## Resume
+[download my resume](https://www.dropbox.com/s/ezgn4l84pp7flgk/ResumeDianaLozano.pdf?dl=0)
+
+
 <small>Copyright &copy; 2015 Diana Lozano. All rights reserved.</small>
