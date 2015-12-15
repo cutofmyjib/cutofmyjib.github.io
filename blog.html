@@ -1,0 +1,23 @@
+---
+layout: default
+title: Blog
+permalink: /
+---
+
+<!-- Article wrapper, limit width -->
+<article>
+
+  <!-- Post title -->
+  <header>
+
+    <h1 class=amsf-title>
+      cutofmyjib
+    </h1>
+
+    <small>a.k.a. <b>Diana Lozano</b>&#x30FB;ver. <b>2.0</b>&#x30FB;view it on <a href="https://github.com/cutofmyjib/cutofmyjib.github.io">GitHub</a></small>
+  </header>
+
+  {% for post in site.categories.projects %}
+    {% include page-item.html %}
+  {% endfor %}
+</article>
