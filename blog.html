@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /
+permalink: /blog/
 ---
 
 <!-- Article wrapper, limit width -->
@@ -11,13 +11,13 @@ permalink: /
   <header>
 
     <h1 class=amsf-title>
-      cutofmyjib
+      blog
     </h1>
 
-    <small>a.k.a. <b>Diana Lozano</b>&#x30FB;ver. <b>2.0</b>&#x30FB;view it on <a href="https://github.com/cutofmyjib/cutofmyjib.github.io">GitHub</a></small>
+    <small>a.k.a. <a href="../about/"><b>cutofmyjib</b></a>&#x30FB;ver. <b>2.0</b></small>
   </header>
 
-  {% for post in site.categories.projects %}
+  {% for post in site.categories.note %}
     {% include page-item.html %}
   {% endfor %}
 </article>
