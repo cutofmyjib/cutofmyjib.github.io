@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: cutofmyjib
 permalink: /about/
 desc: Diana Lozano
 ---
