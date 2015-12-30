@@ -7,9 +7,9 @@ hidden: true
 scheme-link: "#D42426"
 ---
 
-I like crafting and recycling. Since my budget for gift giving this Christmas is pretty small and I also thought it would be fun to use low priced materials for gift wrapping.
+I always think it's awesome to stay within budget, this Christmas season, I thought would be fun to use low priced materials for gift wrapping by using newspapers, brown paper and string.
 
-I used newspapers, brown paper and string.
+It's a perfect combination of recycling, crafting and being thrifty.
 
 <div style="text-align: center;">
   <div style="display:inline-block;">
