@@ -12,7 +12,8 @@ permalink:      /:title.html
 markdown:       redcarpet
 highlighter:    pygments
 include:        ["_pages"]
-
+gems:
+  - jekyll-gist
 #
 # Additional Markdown settings
 #
