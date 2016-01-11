@@ -4,18 +4,20 @@ title: cutofmyjib
 permalink: /about/
 desc: Diana Lozano
 ---
-Hi, my name is Diana. I'm a designer and front-end developer living in San Franciscold!
+Hi, my name is Diana. I'm a designer and front-end developer living in San Francisco.
 
-To leverage my design skills and become a front-end developer with knowledge of full-stack, I attended an immersive web development program at Dev Bootcamp in San Francisco. At present, I keep learning and bettering these practices by attending hackathons and actively building projects I'm passionate about.
+Most of my experience has been in graphic design but I have broad experience in web development, I have experience building projects in Ruby on Rails and Sinatra.
 
-You can ping me on [Twitter](http://twitter.com/bossigner), take a look at my [professional experience](http://www.linkedin.com/in/dianalozano) or email me at [thedianalozano@gmail.com](mailto:thedianalozano@gmail.com).
+Currently, I'm interested in pursuing front end development. I enjoy creating user facing applications. If you are looking to hire one, you can contact me at thedianalozano@gmail.com(mailto:thedianalozano@gmail.com)
+
+You can ping me on [Twitter](http://twitter.com/bossigner), take a look at my [professional experience](http://www.linkedin.com/in/dianalozano).
 
 ## Resume
-[download my resume](https://www.dropbox.com/s/ezgn4l84pp7flgk/ResumeDianaLozano.pdf?dl=0)
+[view my resume](http://cutofmyjib.github.io/DianaLozano-Resume.pdf)
 
 ## You can find my projects here
 
-[<abbr title="cutofmyjib projects">my projects</abbr>](http://cutofmyjib.github.io/projects) -
+[<abbr title="cutofmyjib projects">my projects</abbr>](http://cutofmyjib.github.io/) -
 [Github](http://www.github.com/cutofmyjib) -
 [Behance](http://www.behance.net/dianalozano) -
 [Flickr](https://www.flickr.com/photos/alltomorrowsconcerts/sets)
