@@ -19,6 +19,6 @@ I'm still using React for most of my projects. I learned a lot how to implement 
 
 
 ## **Extension:**
-I'll be uploading eventFindr on Chrome extension you can view or downloaded it on [github](https://github.com/cutofmyjib/eventFindr).
+You can view or downloaded it on [github](https://github.com/cutofmyjib/eventFindr) or at the [chrome web store](https://chrome.google.com/webstore/detail/eventfindr/gcndpbmgdieminkckiigidajcjaepmgn).
 
 
