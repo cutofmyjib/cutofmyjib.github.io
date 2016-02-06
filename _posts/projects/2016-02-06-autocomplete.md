@@ -11,6 +11,8 @@ scheme-link: "#BD1C2B"
 
 The approach I took is whenever a user types an '@' symbol, the autocomplete feature will pop up a list of users to indicate that the feature is listening. While the user starts to type, autocomplete begins to narrow down the search making it convenient to select from the list of results. The selected item is now appended to the comment box with the '@' symbol followed by the username.
 
+<img src="../../posts-imgs/autocomplete.gif" style="margin: 24px auto 0; display: block;">
+
 For the most part of this project, I used JQuery. Before implementing the [textcomplete](https://github.com/yuku-t/jquery-textcomplete) library, I wanted to solve the challenge and the simple solution I came up with is the following:
 
 Set up a listener in the textarea, if the
