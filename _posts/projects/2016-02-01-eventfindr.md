@@ -2,7 +2,6 @@
 layout: post
 title: eventFindr
 category: projects
-plugin: intense
 hidden: true
 scheme-link: "#FF5900"
 ---
