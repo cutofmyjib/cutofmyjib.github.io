@@ -23,6 +23,6 @@ I'm still using React for most of my projects. I learned a lot how to implement 
 
 
 ## **Extension:**
-You can view or downloaded it on [github](https://github.com/cutofmyjib/eventFindr) or at the [chrome web store](https://chrome.google.com/webstore/detail/eventfindr/gcndpbmgdieminkckiigidajcjaepmgn).
+You can view or download it on [github](https://github.com/cutofmyjib/eventFindr) or at the [chrome web store](https://chrome.google.com/webstore/detail/eventfindr/gcndpbmgdieminkckiigidajcjaepmgn).
 
 
