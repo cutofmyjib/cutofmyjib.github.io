@@ -13,7 +13,7 @@ Currently, I'm interested in pursuing front end development. I enjoy creating us
 You can ping me on [Twitter](http://twitter.com/bossigner), take a look at my [professional experience](http://www.linkedin.com/in/dianalozano).
 
 ## Resume
-[view my resume](http://cutofmyjib.github.io/DianaLozano-Resume.pdf)
+[view my resume](http://cutofmyjib.github.io/DianaLozano.pdf)
 
 ## You can find my projects here
 
