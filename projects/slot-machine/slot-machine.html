@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/main.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Slot Machine Reward</h1>
+      <div class="combination-container">
+        <div class="combination">
+          <ul>
+          <li><img alt="coffee maker" src="js/coffee-maker.svg"></li>
+          <li><img alt="coffee filter" src="js/coffee-filter.svg"></li>
+          <li><img alt="coffee grounds" src="js/coffee-grounds.svg"></li>
+          </ul>
+          <div class="combination-award"><p>= Cup of Coffee </p></div>
+        </div>
+        <div class="combination">
+          <ul>
+            <li><img alt="tea pot" src="js/tea-pot.svg"></li>
+            <li><img alt="tea strainer" src="js/tea-strainer.svg"></li>
+            <li><img alt="loose tea" src="js/tea-leaves.svg"></li>
+          </ul>
+          <div class="combination-award"><p>= Cup of Tea </p></div>
+        </div>
+        <div class="combination">
+          <ul>
+            <li><img alt="espresso machine" src="js/espresso-machine.svg"></li>
+            <li><img alt="espresso tamper" src="js/espresso-tamper.svg"></li>
+            <li><img alt="espresso beans" src="js/espresso-beans.svg"></li>
+          </ul>
+          <div class="combination-award"><p>= Cup of Espresso </p></div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div class="slot-machine">
+        <div class="reel-container">
+          <div class="reel">
+            <ul class="reel-1">
+              <li id="reel-1a" value-reel="C"><img alt="coffee maker" src="js/coffee-maker.svg"></li>
+              <li id="reel-1b" value-reel="T"><img src="js/tea-pot.svg"></li>
+              <li id="reel-1c" value-reel="E"><img src="js/espresso-machine.svg"></li>
+            </ul>
+          </div>
+          <div class="reel">
+            <ul class="reel-2">
+              <li id="reel-2a" value-reel="C"><img src="js/coffee-filter.svg"></li>
+              <li id="reel-2b" value-reel="T"><img src="js/tea-strainer.svg"></li>
+              <li id="reel-2c" value-reel="E"><img src="js/espresso-tamper.svg"></li>
+            </ul>
+          </div>
+          <div class="reel">
+            <ul class="reel-3">
+              <li id="reel-3a" value-reel="C"><img src="js/coffee-grounds.svg"></li>
+              <li id="reel-3b" value-reel="T"><img src="js/tea-leaves.svg"></li>
+              <li id="reel-3c" value-reel="E"><img src="js/espresso-beans.svg"></li>
+            </ul>
+          </div>
+        </div>
+        <div class="lever-container">
+          <button id="lever">Spin!</button>
+        </div>
+      </div>
+    </main>
+    <footer><h1 id="status"></h1></footer>
+  </body>
+</html>
