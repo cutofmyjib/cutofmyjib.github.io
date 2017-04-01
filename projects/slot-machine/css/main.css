@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  font-family: 'Press Start 2P', cursive;
+  background: #222;
+}
+
+header,
+main,
+footer {
+  margin: 0 auto;
+  width: 900px;
+}
+
+header {
+  background: #FFD1C6;
+  height: 25vh;
+  justify-content: space-between;
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+header h1 {
+  margin-top: 0;
+  font-size: 42px;
+}
+
+.combination-container {
+  display: flex;
+  margin: 0 auto;
+  width: 85%;
+  height: 50px;
+}
+
+.combination {
+  height: 100%;
+  width: 33%;
+  padding: 5px;
+  display: flex;
+  background: #FFF;
+  border: 3px solid #222;
+}
+
+.combination ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  height: 100%;
+  width: 50%;
+}
+
+.combination ul li {
+  height: 100%;
+}
+
+.combination ul li img {
+  height: 100%;
+}
+
+.combination ul li:nth-child(3) img {
+  transform: translateX(-15px);
+}
+
+.combination-award {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.combination-award p {
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-size: .80em;
+}
+
+main {
+  background: #444;
+  height: 55vh;
+}
+
+.slot-machine {
+  height: 100%;
+  margin: 0 50px;
+  padding: 0 100px;
+  display: flex;
+}
+
+.reel-container {
+  padding: 20px;
+  width: 100%;
+  display: flex;
+}
+
+.reel {
+  width: 33%;
+  height: 100%;
+}
+
+.reel ul {
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
+  height: 100%;
+  border: 3px solid #222;
+  background: #FCF3AF;
+}
+
+.reel ul li {
+  height: 33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reel ul li img {
+  height: 100%;
+  width: 100%;
+}
+
+.lever-container {
+  width: 10%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button:focus {
+  outline: 0;
+}
+
+#lever {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1em;
+  font-weight: bold;
+  color: #222;
+  box-shadow: 4px 4px 0 #FCF3AF;
+  border: solid #FCF3AF 2px;
+  background: #FFF;
+  padding: 6px 12px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button {
+  /* Safari 4.0 - 8.0 */
+  -webkit-animation-name: leverbg;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-delay: 2s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  /* Standard syntax */
+  animation-name: leverbg;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes leverbg {
+    0%   {background-color:#C9BFF4;}
+    25%  {background-color:#31CDD4;}
+    50%  {background-color:#FFD1C6;}
+    75%  {background-color:#FBA058;}
+    100% {background-color:#30DCA6;}
+}
+
+/* Standard syntax */
+@keyframes leverbg {
+    0%   {background-color:#C9BFF4;}
+    25%  {background-color:#31CDD4;}
+    50%  {background-color:#FFD1C6;}
+    75%  {background-color:#FBA058;}
+    100% {background-color:#30DCA6;}
+}
+
+footer {
+  color: #f4c7bc;
+  background: #FFD1C6;
+  height: 20vh;
+  text-align: center;
+  font-size: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#status {
+  margin: 0;
+  color: #222;
+}
