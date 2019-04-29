@@ -8,7 +8,7 @@ Hi, my name is Diana. I'm a designer and front-end developer living in San Franc
 
 Most of my experience has been in graphic design but I have broad experience in web development, I have experience building projects in Ruby on Rails and Sinatra.
 
-Currently, I'm interested in pursuing front end development. I enjoy creating user facing applications. If you are looking to hire one, you can contact me at [thedianalozano@gmail.com](mailto:thedianalozano@gmail.com)
+Currently, I'm interested in pursuing front-end development. I enjoy creating user facing applications. If you are looking to hire one, you can contact me at [thedianalozano@gmail.com](mailto:thedianalozano@gmail.com)
 
 You can ping me on [Twitter](http://twitter.com/bossigner), take a look at my [professional experience](http://www.linkedin.com/in/dianalozano).
 
